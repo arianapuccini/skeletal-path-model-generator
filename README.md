@@ -2,8 +2,8 @@
 Generates skeletal path compartmental models with a given number of vertices.
 A skeletal path model looks like this:
 
- __           __           __           __
-|__| ------> |__| ------> |__| ------> |__|
+ 
+|1| ------> |2| ------> |3| ------> |4|
 
 
 However, we can add additional arrows from one compartment to another, or leaks (arrows that go nowhere).
