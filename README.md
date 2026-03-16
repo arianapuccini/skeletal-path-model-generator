@@ -7,4 +7,4 @@ A skeletal path model looks like this:
 
 
 However, we can add additional arrows from one compartment to another, or leaks (arrows that go nowhere).
-This creates models of size three vertices or less; a database with findings is attached.
+This particular code creates models of size three vertices or less; however, changing the function input to extend the number of vertices is easy. A database with findings is attached.
